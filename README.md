@@ -3,7 +3,7 @@
 
 <h2>Over view</h2>
 The project need different kinds of libraries that are needed but i strongly recommend to use https://colab.research.google.com/ it imports lots of libraries available and for using python you need to download tensor flow and also stream lit.
-In this project over 3000 picture are trained which are not uploaded here 
+In this project over 3000 picture are trained which are not uploaded here which can be downloaded from https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
 
 
 <h3>Author</h3>
